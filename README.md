@@ -5,7 +5,7 @@
 ## Hola soy Eduardo Valenzuela :v: 
 #### Ingeniero en informática | Desarrollador Front End :globe_with_meridians::computer:
 
-En mi experiencia laboral me he dedicado a realizar sitios web responsive design en el último tiempo. Así mismo, ahora estudio y desarrollo Apps que usan las últimas tecnologías que son tendencia en el mercado las cuales pertenecen al MEAN y MERN **(MongoDB, Express, Angular-React, NodeJS)**. 
+Me describo como alguien con ideas, de constante aprendizaje y de nuevas tecnologías tales como el set de MERN **(MongoDB, Express, React, NodeJS)**.
 
 <br/>
 

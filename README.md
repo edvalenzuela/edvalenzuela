@@ -1,7 +1,5 @@
-<div>
-<img align='center' src='https://user-images.githubusercontent.com/39087254/88354172-13a52080-cd2e-11ea-9eb0-dd39446d1a8d.jpg'>
+<img src='https://user-images.githubusercontent.com/39087254/88354172-13a52080-cd2e-11ea-9eb0-dd39446d1a8d.jpg'>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-</div>
 
 ## Hola soy Eduardo Valenzuela :v: 
 #### Ingeniero en informática | Desarrollador Front End :globe_with_meridians::computer:

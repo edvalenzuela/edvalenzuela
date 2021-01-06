@@ -1,8 +1,4 @@
-
-
 Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :blue_heart: :computer: Full Stack Web Developer de Chile. <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
-
-<br/>
  
 ### Tecnologías :globe_with_meridians:
 
@@ -19,9 +15,9 @@ Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :blue_heart: :computer:
 
 <br/>
 
-- 💼 Puedes ver mi perfil de _[linkedin][2]_.
-- :tv: Antiguamente tenía un canal de Youtube _[lalogicaweb][3]_.
-- :frog: :iphone: Como hobbie colecciono, vendo celulares y cosas retro por si quieres seguirme en instagram _[keroretro][1]_.
+- 💼 Puedes ver mi perfil de **_[linkedin][2]_**
+- :tv: Antiguamente tenía un canal de Youtube **_[lalogicaweb][3]_**
+- :frog: :iphone: Como hobbie colecciono, vendo celulares y cosas retro por si quieres seguirme en instagram **_[keroretro][1]_**
 
 <br/>
 

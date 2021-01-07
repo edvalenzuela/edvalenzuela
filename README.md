@@ -9,7 +9,7 @@ Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :blue_heart: :computer:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
-<img align="right" width="350" src='https://user-images.githubusercontent.com/39087254/88354172-13a52080-cd2e-11ea-9eb0-dd39446d1a8d.jpg'>
+<img align="right" width="300" src='https://user-images.githubusercontent.com/39087254/88354172-13a52080-cd2e-11ea-9eb0-dd39446d1a8d.jpg'>
 
 <br/>
 

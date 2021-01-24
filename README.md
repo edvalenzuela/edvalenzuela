@@ -1,8 +1,8 @@
-Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :blue_heart: :computer: Front End Developer de Chile <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :green_heart: :computer: Front End Developer de Chile <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
  
 ## Skills :globe_with_meridians:
 
-<hr>
+<br/>
 
 <code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="bootstrap"></code>
 <code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="tailwindcss"></code>

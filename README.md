@@ -1,15 +1,21 @@
-Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :blue_heart: :computer: Full Stack Web Developer de Chile <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :blue_heart: :computer: Front End Developer de Chile <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
  
-### Tecnologías :globe_with_meridians:
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+### Skills :globe_with_meridians:
 
 <img align="right" width="300" src='https://user-images.githubusercontent.com/39087254/88354172-13a52080-cd2e-11ea-9eb0-dd39446d1a8d.jpg'>
+
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="bootstrap"></code>
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="tailwindcss"></code>
+
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="javascript"></code>
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="angular"></code>
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="mongodb"></code>
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="spring boot"></code>
+
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" title="mongodb"></code>
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" title="express"></code>
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="react"></code>
+<code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="nodejs"></code>
 
 <br/>
 

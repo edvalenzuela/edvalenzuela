@@ -1,8 +1,16 @@
 Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :blue_heart: :computer: Front End Developer de Chile <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
  
-### Skills :globe_with_meridians:
+<br/>
 
 <img align="right" width="300" src='https://user-images.githubusercontent.com/39087254/88354172-13a52080-cd2e-11ea-9eb0-dd39446d1a8d.jpg'>
+
+- 💼 Puedes ver mi perfil de **_[linkedin][2]_**
+- :tv: Antiguamente tenía un canal de Youtube **_[lalogicaweb][3]_**
+- :frog: :iphone: Como hobbie colecciono, vendo celulares y cosas retro por si quieres seguirme en instagram **_[keroretro][1]_**
+
+<br/>
+
+### Skills :globe_with_meridians:
 
 <code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="bootstrap"></code>
 <code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="tailwindcss"></code>
@@ -16,14 +24,6 @@ Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :blue_heart: :computer:
 <code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" title="express"></code>
 <code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="react"></code>
 <code><img width="25" height="25" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="nodejs"></code>
-
-<br/>
-
-- 💼 Puedes ver mi perfil de **_[linkedin][2]_**
-- :tv: Antiguamente tenía un canal de Youtube **_[lalogicaweb][3]_**
-- :frog: :iphone: Como hobbie colecciono, vendo celulares y cosas retro por si quieres seguirme en instagram **_[keroretro][1]_**
-
-<br/>
 
 █║▌│█│║▌║││█║▌║▌║
   

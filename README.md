@@ -1,4 +1,4 @@
-Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :green_heart: :computer: Front End Developer de Chile <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :green_heart: :computer: Front End Developer<img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
  
 ## Skills :globe_with_meridians:
 
@@ -15,17 +15,7 @@ Hola, me llamo **Eduardo Valenzuela**, soy un apasionado :green_heart: :computer
 
 <br/>
 
-- 💼 Puedes ver mi perfil de **_[linkedin][2]_**
-- :tv: Antiguamente tenía un canal de Youtube **_[lalogicaweb][3]_**
-- :frog: :iphone: Como hobbie colecciono, vendo celulares y cosas retro por si quieres seguirme en instagram **_[keroretro][1]_**
-
-<br/>
-
-
 █║▌│█│║▌║││█║▌║▌║
   
-Todos los derechos reservados :copyright:
+La Lógica Web :copyright:
 
-[1]: https://www.instagram.com/keroretro
-[2]: https://www.linkedin.com/in/eduvalenzuela/
-[3]: https://www.youtube.com/c/lalogicaweb/

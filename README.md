@@ -51,6 +51,11 @@
   </a>
 </p>
 
+<p align="left">
+  <span>Linkedin</span> 
+  <a href="https://linkedin.com/in/edvalenzuelap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvalenzuelap" height="30" width="40" /></a>
+</p>
+
 █║▌│█│║▌║││█║▌║▌║
 
-La Lógica Web :copyright
+La Lógica Web ©

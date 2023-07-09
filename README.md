@@ -1,7 +1,7 @@
 # Hello 👋, I'm Eduardo Valenzuela
 ### return ( ) => `
 - 💻 ${FrontEnd} developer
-- 🔴 I’m learning Red team cibersecurity ${PentestingWeb}
+- 🔴 I’m learning cibersecurity pentesting web, ethical hacking and finished diplomado Red team. 
 ### `
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5"> 
